@@ -2,11 +2,9 @@
 
 ![Hub16 assembled](Documents/imgs/nice-1.JPG)
 
-A macro pad with 16 keys, two rotary encoders, a four port USB hub, and plenty of LEDs!
+Hub16 is an external keyboard / macro pad designed to work with software on your computer to enable powerful, context aware macros to be run, ensuring you never have to press a strange sequence of keys ever again. This is particularly useful for PCB design and other CAD tools, as it allows the user to have dedicated keys for common actions which may have had to remember or press awkward keyboard combinations to run.  
 
-This project started as I wanted to utilise rotary encoders to change the grid and trace size in KiCad, and then thought wouldn't it be cool to run a cable between the macro pad and keyboard, so a hub was added! 
-
-It is designed to work with software on the host computer to enable powerful, context aware macros to be run, ensuring you never have to press a strange sequence of keys ever again. 
+This project started as I wanted to utilise rotary encoders to change the grid and trace size in KiCad, along with having dedicated keys for certain operations. Following success of version one, I thought wouldn't it be cool to run a cable between the macro pad and keyboard, so a USB hub was added! 
 
 All design files required to manufacture the board and enclosure are available, along with a small production run currently in the works to make it easier and cheaper to get your hands on a board. Stay tuned... 
 
