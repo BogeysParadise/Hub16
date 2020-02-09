@@ -33,7 +33,9 @@ If the above configuration is not to your liking, you can alter the code in `Fir
 
 To build your new configuration, you will need to do the following:
 
-* Download QMK: `git clone https://github.com/qmk/qmk_firmware --recursive`
+* Download Josh's fork of QMK as the hub16 pull request is yet to be merged 
+`git clone https://github.com/joshajohnson/qmk_firmware --recursive`
+* Checkout the hub16 branch `git checkout hub16`
 * Follow the [build instructions](https://docs.qmk.fm/#/getting_started_build_tools) for your OS to install the toolchain.
 
 QMK configurator is not supported due to rotary encoders [not yet being supported.](https://github.com/qmk/qmk_configurator/issues/468)
